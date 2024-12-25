@@ -23,7 +23,7 @@
 
 ## 🌐 Let's Connect
 - 📫 Email: shivanandpujari666@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin-url](https://linkedin.com/in/your-linkedin-url)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/143shiva](https://www.linkedin.com/in/143shiva)  
 - 💻 Portfolio: [jpegcompress.tech](https://jpegcompress.tech)  
 - 🐙 GitHub: [github.com/shivanand143](https://github.com/shivanand143)
 
