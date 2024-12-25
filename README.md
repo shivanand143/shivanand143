@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivanand Pujari
 
 ## 👨‍💻 About Me
-- 🎓 I’m currently pursuing a **B.Tech in Computer Science & Engineering** at Srinivas University (CGPA: 9.07).  
+- 🎓 I’m currently pursuing a **B.Tech in Computer Science & Engineering** at Srinivas University.  
 - 💡 I’m passionate about **web development**, **image processing**, and creating tools that solve real-world problems.  
 - 🔍 I’m currently exploring **machine learning** and **database management**.
 
